@@ -1,0 +1,18 @@
+.gwt-Label{
+    font-size: 30px;
+    color: aquamarine;
+}
+
+.gallery{
+    display: flex;
+}
+
+.gallery img{
+    width: 200px;
+}
+.table{
+    border-style: ridge;
+    border-width: 150px;
+    border-color: black;
+    background-color: beige;
+}
