@@ -16,3 +16,25 @@
     border-color: black;
     background-color: beige;
 }
+.center-parent{
+    display: flex;
+    
+  
+    border: 8 solid #FFFF00 ;
+    padding: 10;
+    
+}
+
+.menu{
+    width: 200px;
+}
+.header{
+    font-size: 30px;
+    display: flex;
+    justify-content: center;
+    color: #4400ff;
+}
+.Link-container{
+    margin: 5px;
+
+}
